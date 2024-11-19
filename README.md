@@ -1,4 +1,4 @@
-# Handson3
+# Hands-on 3
 Hands-on 3: Data Classification with Logistic Regression
 
 Implementar -en Orange-  el Workflow para clasificar un conjunto de datos a través de la técnica de clasificación Logistic Regression;
